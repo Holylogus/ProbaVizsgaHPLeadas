@@ -1,0 +1,32 @@
+#Felulet{
+  max-width: 95vw;
+  margin: auto;
+}
+
+.dropdown{
+  margin-top: 5vh;
+  padding-left: 5vw;
+}
+#kategoriak{
+  border: 1px solid black;
+}
+
+.kerdesMezo{
+  margin-top: 5vh;
+  border: 1px solid black;
+  border-radius: 1rem;
+  text-align: center;
+  padding: 1rem;
+}
+.kerdesMezo .col-md-5{
+  border: 1px solid black;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 1vh;
+}
+
+.kerdes{
+  background-color: gray;
+  border-radius: 1rem;
+  margin: auto;
+}
